@@ -1,0 +1,8 @@
+.DS_Store
+._*
+__pycache__/
+.ipynb_checkpoints/
+*.duckdb
+.venv/
+# PDFs are downloaded locally via scripts/download-pdfs.sh (not all are licensed for redistribution)
+*.pdf
